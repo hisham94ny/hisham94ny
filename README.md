@@ -1,4 +1,4 @@
-<p align="left">Hi there! 👋<br>I'm Hisham, a Senior Software Architect based in Netherlands. I'm passionate about building robust and scalable software solutions using the latest technologies. Currently, I'm working on developing web and mobile applications using React, React Native, and Node.js.<br><br>🔭 My current projects<br>Project A: A web application for managing employee schedules built with React and Firebase.<br>Project B: A mobile app for tracking fitness goals using React Native and Redux.<br><br>🌱 What I'm currently learning<br>I'm currently learning more about serverless computing and exploring the possibilities of cloud-native architectures using AWS Lambda and Google Cloud Functions.</p>
+<p align="left">Hi there! 👋<br>I'm Hisham, a software engineer based in Netherlands. I'm passionate about building robust and scalable software solutions using the latest technologies. Currently, I'm working on developing web and mobile applications using React, React Native, and Node.js.<br><br>🔭 My current projects<br>Project A: A web application for managing employee schedules built with React and Firebase.<br>Project B: A mobile app for tracking fitness goals using React Native and Redux.<br><br>🌱 What I'm currently learning<br>I'm currently learning more about serverless computing and exploring the possibilities of cloud-native architectures using AWS Lambda and Google Cloud Functions.</p>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/97440581?v=4"  />
+<img align="right" height="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
 ###
 
