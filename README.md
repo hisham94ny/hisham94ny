@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hisham94ny/hisham94ny/blob/output/snake.svg" alt="Snake animation" />
+<!--- Hey Hisham, I noticed the Snake animation in your README! That's really cool. How did you create it? --->
 
 ###
 
