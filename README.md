@@ -55,7 +55,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/hisham94ny/count.svg?"  />
 </div>
 
