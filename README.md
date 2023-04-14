@@ -1,5 +1,5 @@
 <h1>Hello! I'm Hisham</h1>
-	<p>A Senior Software Engineer with over 10 years of experience building robust and scalable software solutions for various industries. My areas of expertise include developing web and mobile applications using React, React Native, and Node.js.</p>
+	<p>A Senior Software Engineer with over 10 years of experience building robust and scalable software solutions for various industries. My areas of expertise include developing web and mobile applications using OOP-Php, Laeavel, React, NextJS, and Node.js.</p>
 	<p>Currently, I'm working on two exciting projects:</p>
 	<ul>
 		<li>Project A: a web application for managing employee schedules using React and Firebase</li>
