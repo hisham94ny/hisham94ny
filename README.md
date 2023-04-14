@@ -1,4 +1,13 @@
-<p align="left">Hi there! 👋<br>I'm Hisham, a software engineer based in Netherlands. I'm passionate about building robust and scalable software solutions using the latest technologies. Currently, I'm working on developing web and mobile applications using React, React Native, and Node.js.<br><br>🔭 My current projects<br>Project A: A web application for managing employee schedules built with React and Firebase.<br>Project B: A mobile app for tracking fitness goals using React Native and Redux.<br><br>🌱 What I'm currently learning<br>I'm currently learning more about serverless computing and exploring the possibilities of cloud-native architectures using AWS Lambda and Google Cloud Functions.</p>
+<h1>Hello! I'm Hisham</h1>
+	<p>A Senior Software Engineer with over 10 years of experience building robust and scalable software solutions for various industries. My areas of expertise include developing web and mobile applications using React, React Native, and Node.js.</p>
+	<p>Currently, I'm working on two exciting projects:</p>
+	<ul>
+		<li>Project A: a web application for managing employee schedules using React and Firebase</li>
+		<li>Project B: a mobile app for tracking fitness goals built with React Native and Redux</li>
+	</ul>
+	<p>In my previous projects, I have successfully led cross-functional teams, optimized software development processes, and delivered high-quality products on time and within budget. For example, I implemented a new API that reduced data retrieval time by 50%, resulting in a 20% increase in customer satisfaction.</p>
+	<p>As a passionate learner, I'm currently exploring serverless computing and cloud-native architectures using AWS Lambda and Google Cloud Functions. I believe that these technologies have the potential to revolutionize the software industry and I'm excited to contribute to this transformation.</p>
+	<p>If you're interested in learning more about my experience or discussing potential opportunities, feel free to contact me at [insert contact information]. Thank you for your time!</p>
 
 ###
 
