@@ -7,7 +7,7 @@
 	</ul>
 	<p>In my previous projects, I have successfully led cross-functional teams, optimized software development processes, and delivered high-quality products on time and within budget. For example, I implemented a new API that reduced data retrieval time by 36%, resulting in a 14% increase in customer satisfaction.</p>
 	<p>As a passionate learner, I'm currently exploring serverless computing and cloud-native architectures using AWS Lambda and Google Cloud Functions. I believe that these technologies have the potential to revolutionize the software industry and I'm excited to contribute to this transformation.</p>
-	<p>If you're interested in learning more about my experience or discussing potential opportunities, feel free to contact me at [insert contact information]. Thank you for your time!</p>
+	<p>If you're interested in learning more about my experience or discussing potential opportunities, feel free to contact me at hisham@CodeZillo.com. Thank you for your time!</p>
 
 ###
 
