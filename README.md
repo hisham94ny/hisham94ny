@@ -1,4 +1,8 @@
 <!-- INTRO & GREETING -->
+
+<h1 align="center">
+  Hello, I'm Hisham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h1>
 <p align="center">
 <img
   height="150"
@@ -6,10 +10,6 @@
   alt="Coding Animation"
 />
 </p>
-<h1 align="center">
-  Hello, I'm Hisham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</h1>
-
 <!-- SHORT BIO & SUMMARY -->
 <p align="center">
   <samp>
